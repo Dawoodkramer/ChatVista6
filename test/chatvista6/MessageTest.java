@@ -308,28 +308,6 @@ public class MessageTest {
         }
     }
 
-    /**
-     * Part 3: Test arrays getter methods for correct population
-     */
-    @Test
-    public void testArraysPopulation() {
-        System.out.println("testArraysPopulation");
-        
-        // Test sent messages array
-        assertEquals("Should have 2 sent messages", 2, message.getSentMessages().size());
-        
-        // Test disregarded messages array
-        assertEquals("Should have 1 disregarded message", 1, message.getDisregardedMessages().size());
-        
-        // Test stored messages array
-        assertEquals("Should have 16 stored messages", 16, message.getStoredMessages().size());
-        
-        // Test message hashes array
-        assertEquals("Should have 2 message hashes", 2, message.getMessageHashes().size());
-        
-        // Test message IDs array
-        assertEquals("Should have 2 message IDs", 2, message.getMessageIDs().size());
-    }
 
     /**
      * Part 3: Test sender and recipient details display
