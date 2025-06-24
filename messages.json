@@ -1,0 +1,112 @@
+{
+  "messageID": "5295283855",
+  "messageNumber": 1,
+  "messageHash": "52:1:HELLOTHERE",
+  "recipient": "+27676326084",
+  "messageText": "hello there",
+  "timestamp": "2025-06-24T15:31:57.348750400"
+},
+{
+  "messageID": "9510375428",
+  "messageNumber": 2,
+  "messageHash": "95:2:HELLOHELLO",
+  "recipient": "+27676326084",
+  "messageText": "hello hello hello",
+  "timestamp": "2025-06-24T15:32:24.527427100"
+},
+{
+  "messageID": "7862665225",
+  "messageNumber": 2,
+  "messageHash": "78:2:HELLOHELLO",
+  "recipient": "+27676326084",
+  "messageText": "hello hello hello hello",
+  "timestamp": "2025-06-24T15:32:53.588121600"
+},
+{
+  "messageID": "0866307386",
+  "messageNumber": 3,
+  "messageHash": "08:3:NORTHWEST",
+  "recipient": "+27828279072",
+  "messageText": "north south east west",
+  "timestamp": "2025-06-24T15:33:45.950196900"
+},
+{
+  "messageID": "5260253729",
+  "messageNumber": 1,
+  "messageHash": "52:1:NEWNEW",
+  "recipient": "+27828279072",
+  "messageText": "New",
+  "timestamp": "2025-06-24T15:34:48.409867400"
+},
+{
+  "messageID": "1729446812",
+  "messageNumber": 1,
+  "messageHash": "17:1:NUMBERONE",
+  "recipient": "+27676326084",
+  "messageText": "number one",
+  "timestamp": "2025-06-24T15:37:41.890600900"
+},
+{
+  "messageID": "0547386235",
+  "messageNumber": 1,
+  "messageHash": "05:1:HELLOAPP",
+  "recipient": "+27676326084",
+  "messageText": "hello today is the day we test this app",
+  "timestamp": "2025-06-24T15:41:12.565887300"
+},
+{
+  "messageID": "5329384222",
+  "messageNumber": 2,
+  "messageHash": "53:2:DAWOODK",
+  "recipient": "+27676326084",
+  "messageText": "dawood k",
+  "timestamp": "2025-06-24T15:41:47.502879"
+},
+{
+  "messageID": "7456643452",
+  "messageNumber": 3,
+  "messageHash": "74:3:DAWOODKRAMER",
+  "recipient": "+27676326084",
+  "messageText": "dawood kramer",
+  "timestamp": "2025-06-24T15:42:07.922744900"
+},
+{
+  "messageID": "0658011895",
+  "messageNumber": 3,
+  "messageHash": "06:3:DAWOODKRAMER",
+  "recipient": "+27676326084",
+  "messageText": "dawood _ kramer",
+  "timestamp": "2025-06-24T15:42:33.986299500"
+},
+{
+  "messageID": "9642754727",
+  "messageNumber": 1,
+  "messageHash": "96:1:BMWBMW",
+  "recipient": "+27676326084",
+  "messageText": "bmw",
+  "timestamp": "2025-06-24T15:59:36.231828800"
+},
+{
+  "messageID": "2776157337",
+  "messageNumber": 2,
+  "messageHash": "27:2:AUDIAUDI",
+  "recipient": "+27676326084",
+  "messageText": "audi",
+  "timestamp": "2025-06-24T16:00:01.218718800"
+},
+{
+  "messageID": "2450861090",
+  "messageNumber": 2,
+  "messageHash": "24:2:VWVW",
+  "recipient": "+27676326084",
+  "messageText": "vw",
+  "timestamp": "2025-06-24T16:00:18.039601200"
+},
+{
+  "messageID": "8998605005",
+  "messageNumber": 1,
+  "messageHash": "89:1:FERRARIFERRARI",
+  "recipient": "+27676326084",
+  "messageText": "ferrari",
+  "timestamp": "2025-06-24T16:02:10.035500200"
+},
